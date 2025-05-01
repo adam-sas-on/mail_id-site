@@ -5,3 +5,18 @@ body {
 	background-color: #0F0F27;
 	color: #EEE;
 }
+
+#main {
+	display: table;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+#main img {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	width: min(30%, 420px);
+	filter: invert(100%);
+}
