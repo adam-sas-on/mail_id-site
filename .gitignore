@@ -178,7 +178,8 @@ setenv.sh
 .notes
 pgdump_schema.sql
 notes.txt
-script.js
+notes.md
+# script.js
 *.bak.*
 
 # yarn v2
